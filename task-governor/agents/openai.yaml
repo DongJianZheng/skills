@@ -1,0 +1,4 @@
+interface:
+  display_name: "省 Token 任务治理器"
+  short_description: "按计划完成核心任务，减少无效读取、测试与输出。"
+  default_prompt: "使用 $task-governor 按任务清单推进，说明模型与原因，优先核心路径并只做关键检查。"
